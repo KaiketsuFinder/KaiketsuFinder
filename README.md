@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity like a wanna be a cybersecurity expert
 - 🌱 I’m currently learning Python, html/css, C
 - 💞️ I’m looking to collaborate on everything, i want to learn all about internet and the features
-- 📫 How to reach me pm only
+- 📫 How to reach me mp only
 
 <!---
 KaiketsuFinder/KaiketsuFinder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
